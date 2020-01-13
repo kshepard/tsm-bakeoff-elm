@@ -6,6 +6,9 @@ A simple example application that uses Elm to display some GeoJSON data on a map
 
 The data used here is Philadelphia schools from: https://www.opendataphilly.org/dataset/schools/resource/b29d98a9-6b96-4742-aedc-80cac6398d1a
 
+![Design sketch](app-whiteboard.jpg)
+![Result](app-screenshot.png)
+
 ## Dependencies
 
 * Elm
